@@ -1,3 +1,7 @@
+OBSOLETE : Developpement is on https://github.com/SDHCAL/SDHCALSim now	
+	
+	
+	
 	mkdir build ; cd build ;
 	cmake -C $ILCSOFT/ILCSoft.cmake ;
 	make -j4 install ;
